@@ -1,0 +1,1 @@
+@C:\Users\Kexuan\Downloads\表A.xlsx @C:\Users\Kexuan\Downloads\表A1.xlsx 分批复制在 A26005:CB27004 停止：富文本与文本行列数不一致：富文本333行 × 77列，文本333行 × 79列；无法确认完整复制，表A1未修改 错误代码：VALIDATION_FAILED；报告编号：20261020T054230637786-957f99b41d

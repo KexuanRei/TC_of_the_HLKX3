@@ -1,0 +1,20 @@
+{
+  "font_family": "Microsoft YaHei",
+  "font_size": 14,
+  "line_spacing": 1.4,
+  "margin": 42,
+  "text_color": "#FFFFFF",
+  "text_opacity": 255,
+  "outline_color": "#B0000000",
+  "outline_width": 2.5,
+  "page_indicator": true,
+  "always_on_top": true,
+  "min_size": [
+    100,
+    100
+  ],
+  "default_size": [
+    300,
+    300
+  ]
+}
